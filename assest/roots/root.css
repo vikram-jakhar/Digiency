@@ -1,0 +1,30 @@
+:root {
+    /* / font size  / */
+    --fs-10: 10.24px;
+    --fs-15: 15px;
+    --fs-12: 12.8px;
+    --fs-16: 16px;
+    --fs-20: 20px;
+    --fs-25: 25px;
+    --fs-28: 28px;
+    --fs-39: 39.06px;
+    --fs-40: 39.063px;
+    --fs-48: 48.83px;
+    --fs-64: 64px;
+    /* / font weight  / */
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-600: 600;
+    --fw-300: 300;
+    --fw-700: 700;
+    /* font-famly   */
+    --ff-ffp: 'Poppins', sans-serif;
+    --ff-ffw: 'Work Sans', sans-serif;
+    /* color  / */
+    --white: white;
+    --orange: #FF5300;
+    --bs-black: #373737;
+    --gray: #7B7B7B;
+    --white1: #EFEFEF;
+
+}
